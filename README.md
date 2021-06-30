@@ -6,7 +6,7 @@
 
 # Things to add
 
-- Create a config folder with a `.env` file and add the following as `key = value`
+- Create a config folder with a `.env` file and add the following as `key = value`(Don't forget to put this config folder into your .gitignore folder)
   - PORT = 2121 (can be any port example: 3000)
   - CLOUD_NAME = `your cloudinary cloud name`
   - CLOUD_API_KEY = `your cloudinary api key`
